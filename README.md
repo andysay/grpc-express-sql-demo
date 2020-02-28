@@ -1,3 +1,10 @@
+# req 
+node -v
+v12.13.1
+
+npm -v
+6.14.1
+
 # grpc-express-sql-demo
 npm install
 
