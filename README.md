@@ -16,6 +16,9 @@ node client/node/index.js
 
 http://localhost:7070/login
 
+email: 
+password:
+
 ### users
 
 admin - yangxe@mail.ru ; admin (view alls);
