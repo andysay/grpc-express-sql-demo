@@ -10,7 +10,9 @@ npm install
 
 node server/index.js
 
-node client/node/index.js
+cd client/node
+
+node index.js
 
 ### login auth 
 
